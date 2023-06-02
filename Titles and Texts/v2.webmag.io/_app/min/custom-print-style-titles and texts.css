@@ -1,0 +1,82 @@
+/* Define print styles for A4 and A5 paper size here */
+ 
+ 
+ @media print {
+    li, p {
+      font-size: 12pt !important;
+      line-height: 22pt !important;
+    }
+    t-popuppane  { display: block !important; }
+    .global_collection2-media_text_overlay .background .container-fluid .container{
+      padding-bottom: 1% !important;
+      padding-top: 21% !important;
+    }
+
+    main {
+      display: block !important;
+    }
+    pgs-popup-header.new {
+      display: none !important;
+    }
+    body pgs-popup t-data t-popuppane pgs-article > div > main.ro_lg > section > div > div > div > div > div > .col-lg-10.col-xl-9 {
+      flex: 0 0 100% !important;
+      max-width: 100% !important;
+    }
+    t-popuppane .btn {
+        display: none;
+    }
+    t-popuppane .global_collection2-text_quoteBox6_center  [class*="pull"] {
+        padding-top: 40px !important;
+        display: block !important;
+        page-break-inside: avoid !important;
+        break-inside: avoid !important;
+    }
+    t-popuppane [class*="global_collection2-text_box"] [class*="pull"] {
+        padding-top: 40px !important;
+        display: block !important;
+        page-break-inside: avoid !important;
+        break-inside: avoid !important;
+    }
+    t-popuppane .global_collection2-text_imagecircle_center [class*="pull"] {
+        padding-top: 40px !important;
+        display: block !important;
+        page-break-inside: avoid !important;
+        break-inside: avoid !important;
+    }
+    t-popuppane .global_collection2-text_image_center [class*="pull"] {
+        padding-top: 40px !important;
+        display: block !important;
+        page-break-inside: avoid !important;
+        break-inside: avoid !important;
+    }
+
+    t-popuppane .global_collection2-sticky_image_text {
+        padding-top: 40px !important;
+        display: block !important;
+        page-break-inside: avoid !important;
+        break-inside: avoid !important;
+    }
+
+    t-popuppane .global_collection2-sticky_image_text .flex-lg-row > div {
+        flex: 0 0 100% !important;
+        max-width: 100% !important;
+    }
+
+    t-popuppane .global_collection2-h1 {
+      margin-top: 100px !important;
+    }
+
+    t-popuppane [class*="pull"]{
+      padding-top: 10px !important;
+    }
+    t-popuppane .pull-left{
+      padding-right: 20px !important;
+    }
+}
+
+ /* CSS rules A5 paper size */
+ @media print and (max-width: 100mm) {
+    li, p {
+      font-size: 10pt !important;
+    }
+ }
