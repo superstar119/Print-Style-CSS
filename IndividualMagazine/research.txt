@@ -1,0 +1,21 @@
+1 - https://content.easy-software.com/whitepaper/whitepaper-easy-requesten/illuminating-dark-spots-in-purchasing-management - can't access
+2 - https://tennet-steckbriefe.webmag.io/steckbriefe-1/onshore/connefordesottrum - can't access
+3 - https://magazin.iveco.de/ivecoyou/2-2022/cover - access4 - 12 pages (especially A5 out of box)
+4 - https://magazin.iveco.de/ivecoyou/2-2022/e-daily-und-nikola-trebev-als-4x2 - can't access
+5 - https://magazin.iveco.de/ivecoyou/2-2022/iveco-und-iveco-busbeim-giro-d-italia - can't access
+6 - https://brandbook.reb.institute/brand-book-2023/immobilien-und-kizukunft - can't access
+7 - https://e-mag.prozesstechnik-portal.com/prozesstechnik/ausgabe-6-2023/anlagenstatus-jederzeit-ueberpruefen - 49 pages
+8 - https://content.1741group.com/de/broschuere/cover - 8 pages
+9 - https://magazin.iccgermany.de/magazin/ausgabe-14/cover - 15 pages
+10 - https://content.easy-software.com/whitepaper/whitepaper-portalexperience-hr-de/welchen-arbeitsaufwand-die-verwaltung-vonmitarbeiterdaten-und-dokumenten-fur-die-personalabteilung-bedeutet-undwie-moderne-arbeitsweisen-diesen-aufwand-beeinflussen - can't access
+11 - https://nachhaltigkeit.sparkasse-unnakamen.de/de/nachhaltigkeitsbericht-2022/start - 9 pages
+12 - https://files.hansainvest.com/kundenmagazin/hansawelt-ausgabe-1-2023/yellowpages - 16 pages
+13 - https://prognos-vbw.webmag.io/vbw-report/2021/summary - 16 pages
+
+
+The style we've done so far is the universal version.
+I checked two status of each magazine - in case of applying the universal style version(mentioned above) and in other case of no applying
+The print style of magazines which are applied the univsersal style is too out of box.
+And the style applied have been improved a lot.
+In my perspective, we need some work corresponding to the individual magazine because position, width, content of each magazine are different from each other.
+What do you think about my quote?
