@@ -28,7 +28,7 @@
         display: block !important;
         page-break-inside: avoid;
         break-inside: avoid;
-        padding-top: 40px !important;
+        padding-top: 45px !important;
     }
     t-popuppane [class*="global_collection2-hotspot"] .modal-sm-show .modal-dialog .modal-content .modal-footer {
         display: none !important;
